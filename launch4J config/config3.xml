@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>E:\Documents\JAVA\MR Rentals\dist\MR_Rentals.jar</jar>
+  <outfile>C:\Users\moham\Desktop\MR Rental.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>E:\Documents\JAVA\MR Rentals\Icons\MR1.ico</icon>
+  <singleInstance>
+    <mutexName>MRRental</mutexName>
+    <windowTitle>MRRental</windowTitle>
+  </singleInstance>
+  <classPath>
+    <mainClass>Rent.Login</mainClass>
+    <cp>lib/mysql-connector-java-5.1.47-bin.jar</cp>
+    <cp>lib/mysql-connector-java-5.1.47.jar</cp>
+    <cp>lib/mysql-connector-java-8.0.30.jar</cp>
+    <cp>lib/jcalendar-1.4.jar</cp>
+  </classPath>
+  <jre>
+    <path>%JAVA_HOME%</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>true</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
