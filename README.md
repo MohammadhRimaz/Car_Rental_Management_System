@@ -44,5 +44,5 @@ The main objective of the Car Rental Management System is to efficiently manage 
 
 The Car Rental Management System provides an efficient and user-friendly interface for managing car rental operations. While it offers several benefits in automating processes, there are limitations such as restricted accessibility and reliance on manual updates. Future enhancements could focus on addressing these limitations to further improve the system's functionality and user experience.
 
-For Installaition follow these step:
+####For Installaition:
 Go to 'dist' file in the repo and follow the steps given by the Readme.txt
